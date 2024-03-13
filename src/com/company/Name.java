@@ -3,6 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Name {
+private String secretKey = "abc";
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

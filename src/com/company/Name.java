@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Name {
 private String secretKey = "abc";
+    private String key = "adobe_client_secret";
+    String token = "1212121";
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
